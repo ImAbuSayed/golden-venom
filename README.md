@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/golden-venom/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Golden Venom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-venom/) |
+| **Get License** | [Commercial Licensing for Golden Venom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-venom/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `279d9fd2208a108c61d0f6bb5d9dcae4bc3ba9dfdfb9e68501ec194da1f90081` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
