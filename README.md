@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/golden-venom/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Golden Venom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-venom/) |
+| **Get License** | [Music Rights & Licensing for Golden Venom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-venom/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan cho dulda nasha make it slow
+> Raat di haneri vich shadow teri glow
+> Sahaan di garmi ch burn karda haan
+> Tere piche duniya nu turn karda haan
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
